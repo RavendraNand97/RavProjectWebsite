@@ -1,0 +1,23 @@
+{
+  "name": "ravprojectwebsite",
+  "version": "1.0.0",
+  "description": "Ravendra Nand's Professional Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/RavendraNand97/RavProjectWebsite.git"
+  },
+  "keywords": [
+    "Professional"
+  ],
+  "author": "Ravendra Nand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RavendraNand97/RavProjectWebsite/issues"
+  },
+  "homepage": "https://github.com/RavendraNand97/RavProjectWebsite#readme"
+}
