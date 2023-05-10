@@ -1,0 +1,46 @@
+body > * {
+    background-color: #659dbd;
+    padding: 1%;
+
+  }
+body {
+    margin: 0 auto;
+    background-color: #fbeec1;
+    padding:10 auto;
+  }
+
+.header {
+  text-align:center;
+  }
+
+  nav {
+    height: 80px;
+    flex: 100%;
+    display: flex;
+    background-color: #daad86;
+  }
+  
+  nav ul {
+    padding: 0;
+    list-style-type: none;
+    flex: 2;
+    display: flex;
+  }
+  
+  nav li {
+    display: inline;
+    text-align: center;
+    flex: 1;
+  }
+  
+  nav a, nav span {
+    display: inline-block;
+    font-size: 2rem;
+    height: 3rem;
+    line-height: 1.7;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+    text-shadow: 5px 5px 15px rgb(0, 0, 0);
+  }
+  
